@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!--fetch代表git仓库地址,但是具体仓库的上一集目录,不指定具体仓库,project name 则指定具体仓库名 -->
+ <remote name="origin" fetch="https://github.com/zch8422348/"/>
+ <default revision="master" remote="origin" />
+ <project name="music.git" path="solutions/solution/app-lib/music"/>
+ <project name="navi.git" path="solutions/solution/app-lib/navi"/>
+ <project name="solution.git" path="solutions"/>
+</manifest>
