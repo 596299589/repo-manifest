@@ -6,5 +6,5 @@
  <project name="music.git" path="solutions/solution/app-lib/music"/>
  <project name="navi.git" path="solutions/solution/app-lib/navi"/>
  <project name="solution.git" path="solutions"/>
- <project name="solution.git" path="solutions/test"/>
+ <project name="solution.git" path="solutions/sibichi"/>
 </manifest>
